@@ -80,7 +80,7 @@ if(isset($_SESSION['user_id'])){
       <div class="box">
          <img src="images/step-3.png" alt="">
          <h3>Enjoy Veggies</h3>
-         <p>Enjoy our VEGGO product, fresh and healthy.</p>
+         <p>Enjoy our VEGGO product, fresh, yummy and healthy.</p>
       </div>
 
    </div>
