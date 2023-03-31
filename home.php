@@ -159,6 +159,17 @@ include 'components/add_cart.php';
 
 </section>
 
+<section class="location">
+   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1696.0062352386808!2d123.95072307309789!3d10.31123272008129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sph!4v1680051876194!5m2!1sen!2sph" 
+      width="1200" 
+      height="500" 
+      style="border:0;" 
+      allowfullscreen=true 
+      loading="lazy" 
+      referrerpolicy="no-referrer-when-downgrade">
+   </iframe>
+</section>
+
 
 <?php include 'components/footer.php'; ?>
 
